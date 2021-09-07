@@ -1,16 +1,16 @@
 # Name of the project
-PROJECT_NAME = phonebook-management
+PROJECT_NAME = customerbilling
 
 # Output directory
 BUILD = build
 
 # All source code files
 SRC = main.c\
-src/phone_book.c\
+src/customerbilling.c\
 
 # All test source files
-TEST_SRC = src/phone_book.c\
-test/test_phonebook.c
+TEST_SRC = src/customerbilling.c\
+test/test_customerbilling.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
