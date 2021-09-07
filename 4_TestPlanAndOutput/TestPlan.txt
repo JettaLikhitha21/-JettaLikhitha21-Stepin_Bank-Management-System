@@ -1,0 +1,25 @@
+TU01:
+
+Test case description: To print customerbill
+Test steps: Enter the items purchased
+	    item name
+	    quantity
+	    price
+Test inputs : item name :Bag
+	      qty       :2
+	      price     :30	    
+Test output: prints the bill will total-60
+Test Status: Pass.
+
+TU01:
+
+Test case description: To print customerbill
+Test steps: Enter the items purchased
+	    item name
+	    quantity
+	    price
+Test inputs : item name :Bag
+	      qty       :6
+	      price     :80	    
+Test output: prints the bill will total-480
+Test Status: Pass.
