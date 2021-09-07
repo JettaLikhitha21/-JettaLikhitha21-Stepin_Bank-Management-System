@@ -4,4 +4,4 @@
    <img src="https://www.code-inspector.com/project/27760/score/svg"/>
    <img src="https://www.code-inspector.com/project/27760/status/svg"/>
    </a>
-   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e411e4645e3a4ba3925c8f984994e218)](https://www.codacy.com/gh/JettaLikhitha21/-JettaLikhitha21-Stepin_Bank-Management-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JettaLikhitha21/-JettaLikhitha21-Stepin_Bank-Management-System&amp;utm_campaign=Badge_Grade)
+
