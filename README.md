@@ -17,3 +17,4 @@ OBJECTIVE
 </a>
 [![cppcheck-action](https://github.com/JettaLikhitha21/-JettaLikhitha21-Stepin_Bank-Management-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/JettaLikhitha21/-JettaLikhitha21-Stepin_Bank-Management-System/actions/workflows/cppcheck.yml)
 [![Unit testing](https://github.com/JettaLikhitha21/-JettaLikhitha21-Stepin_Bank-Management-System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/JettaLikhitha21/-JettaLikhitha21-Stepin_Bank-Management-System/actions/workflows/unit-test.yml)
+[![Valgrind](https://github.com/JettaLikhitha21/-JettaLikhitha21-Stepin_Bank-Management-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/JettaLikhitha21/-JettaLikhitha21-Stepin_Bank-Management-System/actions/workflows/Valgrind.yml)
